@@ -5,8 +5,10 @@ import java.util.Scanner;
 public class AssignGrade {
 	
 	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Score: ");
+		int score = scan.nextInt();
 		
-		int score = 80;
 		double grade = ((100 - score)/50.0) * 3 + 1;
 		
 		 if (grade <= 4.0) {
