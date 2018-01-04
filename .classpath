@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Databases/src"/>
+	<classpathentry kind="src" path="EnumExample/src"/>
+	<classpathentry kind="src" path="EnumExercise/src"/>
+	<classpathentry kind="src" path="Exceptions/src"/>
+	<classpathentry kind="src" path="Generics/src"/>
+	<classpathentry kind="src" path="InputOutput/src"/>
+	<classpathentry kind="src" path="ListsAndArrays/src"/>
+	<classpathentry kind="src" path="Methods/src"/>
+	<classpathentry kind="src" path="OOP1/src"/>
+	<classpathentry kind="src" path="Recursion/src"/>
+	<classpathentry kind="src" path="Strings/src"/>
+	<classpathentry kind="src" path="Structures/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
