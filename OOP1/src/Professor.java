@@ -28,8 +28,7 @@ public class Professor {
 	}
 	public void addLecture(String lecture){
 		//todo: fill this method
-		lectures.add("Software Engineering");
-		lectures.add("Java Tutorial");
-		System.out.println("Elements of the ArrayList of String Type: " + lectures);
+		lectures.add(lecture);
+		System.out.println(lectures);
 	}
 }
